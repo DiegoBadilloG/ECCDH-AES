@@ -1,0 +1,2 @@
+from .secp256r1 import generar_par_claves_secp256r1, calcular_secreto_compartido_secp256r1
+from .curve25519 import generar_par_claves_25519,  calcular_secreto_compartido_25519
