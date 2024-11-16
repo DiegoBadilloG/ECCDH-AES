@@ -42,8 +42,7 @@ Incluye los elementos necesarios para la simulación del sistema criptográfico 
 
 ## Instalación
 
-1. **Clona este repositorio**: [METER LINK]
-2. **Instala las dependencias de software**:
+1. **Instala las dependencias de software**:
    ```bash
    pip install -r requirements.txt
 
